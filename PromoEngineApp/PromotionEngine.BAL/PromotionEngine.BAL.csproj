@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PromotionEngine.IBAL\PromotionEngine.IBAL.csproj" />
+    <ProjectReference Include="..\PromotionEngine.Model\PromotionEngine.Model.csproj" />
+  </ItemGroup>
+
+</Project>
